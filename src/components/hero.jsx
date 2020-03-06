@@ -16,7 +16,7 @@ const iconStyle={"marginRight":"10px"};
 const Hero = () =>
 {
     return <div>
-        <div className="hero is-medium is-primary" style={styles} id="particles-js">
+        <div className="hero is-medium is-black" style={styles} id="particles-js">
             <Navbar/>
             <div className="hero-body">
                 <div className="columns">

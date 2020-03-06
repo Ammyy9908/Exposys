@@ -1,25 +1,25 @@
 import React from 'react';
-import Hero from "./components/hero";
-import Category  from "./components/category";
-import Products  from "./components/Products";
-import Hero2  from "./components/hero2";
-import About from "./components/About";
-import Footer from "./components/footer";
+import {BrowserRouter as Router, Route , Switch, Link, Redirect} from "react-router-dom";
+import { render } from '@testing-library/react';
+import MainPage from "./pages";
+import NotFound from "./pages/404";
+import Training from "./pages/training";
 
 function App() {
-  return (
-    <div className="App">
-     
-     <Hero/>
-     <Category/>
-     <Products/>
-     <Hero2/>
-     <About/>
-     <Footer/>
+  render()
+  {
+    return <Router>
+      <Switch>
+      <Route exact path="/Exposys" component={MainPage}/>
+      <Route exact path="/" component={MainPage}/>
+      <Route exact path="/404" component ={NotFound}/>
+      <Route exact path="/training" component ={Training}/>
+      <Redirect to="/404" />
 
-
-    </div>
-  );
+      </Switch>
+    </Router>
+    
+  }
 }
 
 export default App;

@@ -1,14 +1,15 @@
 import React from "react"
+//import Link from "react-router-dom"
 
 
-const active={"borderBottom":"4px solid #ffffff"};
+//const active={"borderBottom":"4px solid #ffffff"};
 const brand_name="Exposys Data Labs";
 const Navbar = () =>
 {
     return <div>
         <nav className="navbar" role="navigation" aria-label="main navigation">
   <div className="navbar-brand">
-    <a className="navbar-item has-text-white" href="#/">
+    <a className="navbar-item has-text-white" href="/Exposys">
       {brand_name}
     </a>
 
@@ -21,30 +22,30 @@ const Navbar = () =>
 
   <div id="navbarBasicExample" class="navbar-menu ">
     <div className="navbar-start">
-      <a className="navbar-item has-text-white" style={active} href="#/">
+      <a className="navbar-item has-text-white" href="/Exposys">
         Home
       </a>
 
-      <a className="navbar-item has-text-white" href="#/">
+      <a className="navbar-item has-text-white" href="/Training">
         Training
       </a>
 
-      <a className="navbar-item has-text-white" href="#/">
+      <a className="navbar-item has-text-white" href="/Research">
         Research & Dev
       </a>
-      <a className="navbar-item has-text-white" href="#/">
+      <a className="navbar-item has-text-white" href="/Promotions">
         Promotions
       </a>
-      <a className="navbar-item has-text-white" href="#/">
+      <a className="navbar-item has-text-white" href="/Training">
         Designing
       </a>
-      <a className="navbar-item has-text-white" href="#/">
+      <a className="navbar-item has-text-white" href="/TraiAboutning">
         About us
       </a>
-      <a className="navbar-item has-text-white" href="#/">
+      <a className="navbar-item has-text-white" href="/Contact">
         Contact
       </a>
-      <a className="navbar-item has-text-white" href="#/">
+      <a className="navbar-item has-text-white" href="/Careers">
         Careers
       </a>
     </div>

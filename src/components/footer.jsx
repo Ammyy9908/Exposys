@@ -21,20 +21,20 @@ const Footer = () =>
                         <h5 className="subtitle has-text-white">Categories</h5>
                         <ul className="cat-links">
                             <li>
-                                <a href="#/">Training Programs</a>
+                                <a href="#/" className="has-text-white">Training Programs</a>
                             </li>
                             <li>
-                                <a href="#/">Research & Dev</a>
+                                <a href="#/" className="has-text-white">Research & Dev</a>
                             </li>
                             <li>
-                                <a href="#/">About</a>
+                                <a href="#/" className="has-text-white">About</a>
                             </li>
                             <li>
-                                <a href="#/">Promotions</a>
+                                <a href="#/" className="has-text-white">Promotions</a>
                             </li>
 
                             <li>
-                                <a href="#/">Testimonials</a>
+                                <a href="#/" className="has-text-white">Testimonials</a>
                             </li>
                         </ul>
                     </div>
@@ -43,16 +43,16 @@ const Footer = () =>
                         <h5 className="subtitle has-text-white">Social Media</h5>
                         <ul className="cat-links">
                             <li>
-                                <a href="#/"><i className="fab fa-whatsapp"></i> Whatsapp</a>
+                                <a href="#/" className="has-text-white"><i className="fab fa-whatsapp"></i> Whatsapp</a>
                             </li>
                             <li>
-                                <a href="#/"><i className="fab fa-facebook"></i> Facebook</a>
+                                <a href="#/" className="has-text-white"><i className="fab fa-facebook"></i> Facebook</a>
                             </li>
                             <li>
-                                <a href="#/"><i className="fab fa-linkedin"></i> Linkedin</a>
+                                <a href="#/" className="has-text-white"><i className="fab fa-linkedin"></i> Linkedin</a>
                             </li>
                             <li>
-                                <a href="#/"><i className="fab fa-youtube"></i> Youtube</a>
+                                <a href="#/" className="has-text-white"><i className="fab fa-youtube"></i> Youtube</a>
                             </li>
                         </ul>
                     </div>
