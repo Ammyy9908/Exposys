@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Aditya/static/js/main.fb016d43.chunk.js",
-    "main.js.map": "/Aditya/static/js/main.fb016d43.chunk.js.map",
-    "runtime-main.js": "/Aditya/static/js/runtime-main.b77d0614.js",
-    "runtime-main.js.map": "/Aditya/static/js/runtime-main.b77d0614.js.map",
-    "static/js/2.9705ee16.chunk.js": "/Aditya/static/js/2.9705ee16.chunk.js",
-    "static/js/2.9705ee16.chunk.js.map": "/Aditya/static/js/2.9705ee16.chunk.js.map",
-    "index.html": "/Aditya/index.html",
-    "precache-manifest.bd6bc7f973f4d42b13000adbba419a18.js": "/Aditya/precache-manifest.bd6bc7f973f4d42b13000adbba419a18.js",
-    "service-worker.js": "/Aditya/service-worker.js",
-    "static/js/2.9705ee16.chunk.js.LICENSE.txt": "/Aditya/static/js/2.9705ee16.chunk.js.LICENSE.txt"
+    "main.js": "/Exposys/static/js/main.fb016d43.chunk.js",
+    "main.js.map": "/Exposys/static/js/main.fb016d43.chunk.js.map",
+    "runtime-main.js": "/Exposys/static/js/runtime-main.5fb402af.js",
+    "runtime-main.js.map": "/Exposys/static/js/runtime-main.5fb402af.js.map",
+    "static/js/2.9705ee16.chunk.js": "/Exposys/static/js/2.9705ee16.chunk.js",
+    "static/js/2.9705ee16.chunk.js.map": "/Exposys/static/js/2.9705ee16.chunk.js.map",
+    "index.html": "/Exposys/index.html",
+    "precache-manifest.add8e0bd4017d636193f566724f173d9.js": "/Exposys/precache-manifest.add8e0bd4017d636193f566724f173d9.js",
+    "service-worker.js": "/Exposys/service-worker.js",
+    "static/js/2.9705ee16.chunk.js.LICENSE.txt": "/Exposys/static/js/2.9705ee16.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b77d0614.js",
+    "static/js/runtime-main.5fb402af.js",
     "static/js/2.9705ee16.chunk.js",
     "static/js/main.fb016d43.chunk.js"
   ]
