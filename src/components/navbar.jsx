@@ -39,7 +39,7 @@ const Navbar = () =>
       <a className="navbar-item has-text-white" href="/Training">
         Designing
       </a>
-      <a className="navbar-item has-text-white" href="/TraiAboutning">
+      <a className="navbar-item has-text-white" href="/About">
         About us
       </a>
       <a className="navbar-item has-text-white" href="/Contact">

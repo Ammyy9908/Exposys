@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "./navbar";
+import programmer from "../programmer.svg"
 
 const styles={"backgroundColor":"#243268"};
 const heading = "Building Products & Professionals one at time.";
@@ -8,7 +9,7 @@ const heading = "Building Products & Professionals one at time.";
 
 //const heroStyle={"background":"linear-gradient(120deg,#122B40,#446cb3)"};
 
-const imgUrl="https://source.unsplash.com/400x400/?Student-Training";
+const imgUrl=programmer;
 
 const iconStyle={"marginRight":"10px"};
 

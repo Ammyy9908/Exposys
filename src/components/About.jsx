@@ -28,6 +28,7 @@ const About = ()=>
                             <div className="column">
                             <ClientCard image="https://i.pravatar.cc/150?img=12" comment={client_comment} name="Aditya"/>
                             </div>
+                            
                         </div>
                         <br/>
                         <br/>
