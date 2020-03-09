@@ -1,5 +1,5 @@
 import React from "react"
-//import Link from "react-router-dom"
+import {Link} from "react-router-dom"
 
 
 //const active={"borderBottom":"4px solid #ffffff"};
@@ -9,9 +9,9 @@ const Navbar = () =>
     return <div>
         <nav className="navbar" role="navigation" aria-label="main navigation">
   <div className="navbar-brand">
-    <a className="navbar-item has-text-white" href="/Exposys">
+    <Link className="navbar-item has-text-white" to="/Exposys">
       {brand_name}
-    </a>
+    </Link>
 
     <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" href="#/">
       <span aria-hidden="true"></span>
@@ -22,13 +22,13 @@ const Navbar = () =>
 
   <div id="navbarBasicExample" class="navbar-menu ">
     <div className="navbar-start">
-      <a className="navbar-item has-text-white" href="/Exposys">
+      <Link className="navbar-item has-text-white" to="/Exposys">
         Home
-      </a>
+      </Link>
 
-      <a className="navbar-item has-text-white" href="/Training">
+      <Link className="navbar-item has-text-white" to="/Training">
         Training
-      </a>
+      </Link>
 
       <a className="navbar-item has-text-white" href="/Research">
         Research & Dev
