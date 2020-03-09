@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cacf2bbc92189d7dca051d0afba44cf",
+    "revision": "e94b876d3553b0bae7267192d0ea52ec",
     "url": "/Exposys/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Exposys/static/js/2.ff4ed2da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88243056455f477b6f07",
-    "url": "/Exposys/static/js/main.3d37f154.chunk.js"
+    "revision": "dfe00f3829e6807233a8",
+    "url": "/Exposys/static/js/main.b57ee957.chunk.js"
   },
   {
     "revision": "8ccbe1b5940428e74d35",
