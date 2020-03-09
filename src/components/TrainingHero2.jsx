@@ -1,7 +1,6 @@
 import React from "react"
 import mountain from "../mountain.png"
 
-const custom_style={"backgroundImage":"url("+{mountain}+")","backgroundSize":"cover"};
 
 const HeroTraining2 = () =>
 {
