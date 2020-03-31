@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/Exposys/static/js/main.f887297c.chunk.js",
-    "main.js.map": "/Exposys/static/js/main.f887297c.chunk.js.map",
+    "main.js": "/Exposys/static/js/main.98c29de7.chunk.js",
+    "main.js.map": "/Exposys/static/js/main.98c29de7.chunk.js.map",
     "runtime-main.js": "/Exposys/static/js/runtime-main.5fb402af.js",
     "runtime-main.js.map": "/Exposys/static/js/runtime-main.5fb402af.js.map",
-    "static/js/2.0914c2cb.chunk.js": "/Exposys/static/js/2.0914c2cb.chunk.js",
-    "static/js/2.0914c2cb.chunk.js.map": "/Exposys/static/js/2.0914c2cb.chunk.js.map",
+    "static/js/2.35bf21b3.chunk.js": "/Exposys/static/js/2.35bf21b3.chunk.js",
+    "static/js/2.35bf21b3.chunk.js.map": "/Exposys/static/js/2.35bf21b3.chunk.js.map",
     "index.html": "/Exposys/index.html",
-    "precache-manifest.b0740fa308ecdada14fed578cbf0c80f.js": "/Exposys/precache-manifest.b0740fa308ecdada14fed578cbf0c80f.js",
+    "precache-manifest.f739cbec6898ea0f3def1acc1cfae1ad.js": "/Exposys/precache-manifest.f739cbec6898ea0f3def1acc1cfae1ad.js",
     "service-worker.js": "/Exposys/service-worker.js",
-    "static/js/2.0914c2cb.chunk.js.LICENSE.txt": "/Exposys/static/js/2.0914c2cb.chunk.js.LICENSE.txt",
+    "static/js/2.35bf21b3.chunk.js.LICENSE.txt": "/Exposys/static/js/2.35bf21b3.chunk.js.LICENSE.txt",
     "static/media/mountain.png": "/Exposys/static/media/mountain.cd5a874d.png",
     "static/media/programmer.svg": "/Exposys/static/media/programmer.9a76e74e.svg",
     "static/media/rect.png": "/Exposys/static/media/rect.80adf402.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5fb402af.js",
-    "static/js/2.0914c2cb.chunk.js",
-    "static/js/main.f887297c.chunk.js"
+    "static/js/2.35bf21b3.chunk.js",
+    "static/js/main.98c29de7.chunk.js"
   ]
 }
